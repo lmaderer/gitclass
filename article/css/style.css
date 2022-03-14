@@ -60,7 +60,7 @@ p{
 .column{
     font-size: 18px;
     line-height: 25px;
-    width: 17.5%;
+    width: 100%;
     display: inline-block;
     padding: 0 1% 0 1%;
     vertical-align: top;
@@ -241,10 +241,10 @@ p{
     /* -webkit-filter: sepia(80%) contrast(1) opacity(0.8); */
     /* filter: sepia(80%) grayscale(1) contrast(1) opacity(0.8); */
     /* mix-blend-mode: multiply; */
-    width: 100%;
-    border-style: solid;
+    width: 30%;
+    /* border-style: solid;
     border-width: 1.5pt;
-    border-color: #7f945c;
+    border-color: #7f945c; */
 }
 /*________________________________________________________________________________________________________________________________*/
 /*MEDIAQUERIES*/
