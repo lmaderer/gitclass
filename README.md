@@ -10,3 +10,4 @@ local change
 origin commit after local rebase
 
 bugfix origin
+new feature local
